@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\ESPEL\SEGUNDO SEMESTRE\PROGRAMACION VISUAL\SEGUNDO PARCIAL\EJERCICIOS\Herencias\Clases\bin\Debug\Clases.dll
+C:\Users\usuario\Desktop\ESPEL\SEGUNDO SEMESTRE\PROGRAMACION VISUAL\SEGUNDO PARCIAL\EJERCICIOS\Herencias\Clases\bin\Debug\Clases.pdb
+C:\Users\usuario\Desktop\ESPEL\SEGUNDO SEMESTRE\PROGRAMACION VISUAL\SEGUNDO PARCIAL\EJERCICIOS\Herencias\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ESPEL\SEGUNDO SEMESTRE\PROGRAMACION VISUAL\SEGUNDO PARCIAL\EJERCICIOS\Herencias\Clases\obj\Debug\Clases.dll
+C:\Users\usuario\Desktop\ESPEL\SEGUNDO SEMESTRE\PROGRAMACION VISUAL\SEGUNDO PARCIAL\EJERCICIOS\Herencias\Clases\obj\Debug\Clases.pdb
